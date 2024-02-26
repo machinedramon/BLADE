@@ -1,0 +1,18 @@
+# Ignore files in __pycache__
+__pycache__/
+
+# Ignore pybluez and pyobex folders
+pybluez/
+pyobex/
+
+# Ignore all files in the root directory except index.py and .gitignore
+
+fileTransferOBEX.py
+get_services_BLE.py
+get_services_classic.py
+index.html
+mormai.py
+pair-classic.py
+pair.py
+ssp.py
+windows.py
