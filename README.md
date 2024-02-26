@@ -1,4 +1,4 @@
-# <img src="assets/blade.gif" width="76" height="76"> BLADE: Bluetooth Link Access and Data Exchange
+# <img src="assets/blade-icon.gif" width="76" height="76"> BLADE: Bluetooth Link Access and Data Exchange
 
 
 ## Overview
@@ -54,15 +54,15 @@ BLADE represents an advanced system crafted to establish a seamless bridge betwe
 
 | Operating System | Compatibility |
 | ---------------- | ------------- |
-| Windows          | ✅             |
-| Linux            | ❌             |
-| macOS            | ❌             |
+| Windows          | ✅            |
+| Linux            | ❌            |
+| macOS            | ❌            |
 
 ### Python Version Compatibility
 
 | Version | Compatibility |
 | ------- | ------------- |
-| =>3.11.8  | ✅             |
+| 3       |   =>3.11.8    |
 
 ## Example Usage
 
