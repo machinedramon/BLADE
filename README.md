@@ -1,6 +1,16 @@
 # <img src="assets/blade-icon.gif" width="76" height="76"> BLADE: Bluetooth Link Access and Data Exchange
 
 
+## Index
+
+1. [Overview](#overview)
+2. [Key Features](#key-features)
+3. [Technical Specifications](#technical-specifications)
+4. [Example Usage](#example-usage)
+5. [API Reference](#api-reference)
+6. [Contribution Guidelines](#contribution-guidelines)
+7. [License](#license)
+
 ## Overview
 
 BLADE represents an advanced system crafted to establish a seamless bridge between HTTP requests and Bluetooth communications, enabling streamlined interaction with Bluetooth devices via a local server. This server adeptly manages device connections, facilitating operations such as service discovery, data exchange, and file transfers with both classic Bluetooth and BLE devices through HTTP requests.
